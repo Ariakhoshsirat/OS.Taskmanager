@@ -1,0 +1,4 @@
+1 process1 c5 m2 c1
+2 process2 c4 m1 c3
+2 process3 c4 m2 c4
+2 process4 c2 m5 c1
